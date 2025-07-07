@@ -24,5 +24,9 @@ This is a simple QR Code Generator built using only HTML, CSS, and JavaScript in
 - JavaScript (Vanilla)
 - [QRCode.js](https://github.com/davidshimjs/qrcodejs)
 
+## 🎯 Live Preview
+
+https://yashitha12.github.io/QR-code-generator-using-HTML-CSS-and-JavaScript/
+
 
 
