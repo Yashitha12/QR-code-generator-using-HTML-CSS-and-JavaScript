@@ -1,4 +1,4 @@
-# QR Code Generator (Single HTML File)
+# QR Code Generator 
 
 This is a simple QR Code Generator built using only HTML, CSS, and JavaScript in one single file. It uses the open-source QRCode.js library to generate QR codes instantly in the browser.
 
